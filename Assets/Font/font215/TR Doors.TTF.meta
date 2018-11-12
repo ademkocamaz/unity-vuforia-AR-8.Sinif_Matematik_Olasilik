@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d9cfd0ec5c185894f8f812d3561885e8
+timeCreated: 1512676683
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR Doors
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bc17d742d9a62574bb01173f95dee1aa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

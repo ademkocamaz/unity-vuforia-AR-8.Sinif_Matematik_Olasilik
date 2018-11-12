@@ -1,0 +1,82 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 05.10.2017 17:35:54
+
+newmtl leaf
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6588 0.8314 0.6588
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\ant_Leaf.jpg
+	map_Kd D:\New folder 2\ant_Leaf.jpg
+	map_bump -bm 0.5000 D:\New folder 2\ant_Leaf.jpg
+	bump -bm 0.5000 D:\New folder 2\ant_Leaf.jpg
+
+newmtl red
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7843 0.3176 0.1765
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\Marble_r.jpg
+	map_Kd D:\New folder 2\Marble_r.jpg
+	map_bump -bm 0.3000 D:\New folder 2\Marble_r.jpg
+	bump -bm 0.3000 D:\New folder 2\Marble_r.jpg
+
+newmtl bark
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6784 0.5216 0.4353
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\osa_Bark.jpg
+	map_Kd D:\New folder 2\osa_Bark.jpg
+	map_bump -bm 0.3000 D:\New folder 2\osa_Bark.jpg
+	bump -bm 0.3000 D:\New folder 2\osa_Bark.jpg
+
+newmtl stone
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9216 0.5725 0.2627
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\stones.jpg
+	map_Kd D:\New folder 2\stones.jpg
+	map_bump -bm 0.3000 D:\New folder 2\stones.jpg
+	bump -bm 0.3000 D:\New folder 2\stones.jpg
+
+newmtl ground
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8353 0.5882 0.7725
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\osa_Soil.jpg
+	map_Kd D:\New folder 2\osa_Soil.jpg
+	map_bump -bm 0.3000 D:\New folder 2\osa_Soil.jpg
+	bump -bm 0.3000 D:\New folder 2\osa_Soil.jpg

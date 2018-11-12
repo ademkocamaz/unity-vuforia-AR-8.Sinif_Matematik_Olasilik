@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a88ea6d1847086242ad6c3a55b2e9fab
+timeCreated: 1512676679
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Eurostile Extended
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 24094dcd929006a49a307f3ab64f9c72, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

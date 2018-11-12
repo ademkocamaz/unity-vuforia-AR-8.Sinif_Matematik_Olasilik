@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b05eab97d013c8f4f869e9fa1fa58f91
+timeCreated: 1512676679
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR FrankfurtGothicHeavy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0b38abf9eee45e849a51ed49b8ccce5d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

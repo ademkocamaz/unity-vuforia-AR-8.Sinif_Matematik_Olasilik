@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a2579ca880f645846807a72cd886e9cc
+timeCreated: 1512676678
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR Eagles
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 31c3cee5f722cd340a88e31056f1310f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

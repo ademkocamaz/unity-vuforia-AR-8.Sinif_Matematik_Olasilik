@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="88_02" size="2480.000000 1754.000000" />
+    <ImageTarget name="88_01" size="2408.000000 1703.077393" />
+    <ImageTarget name="87_02" size="2480.000000 1754.000000" />
+    <ImageTarget name="87_01" size="2480.000000 1754.000000" />
+    <ImageTarget name="86_02" size="2480.000000 1754.000000" />
+    <ImageTarget name="86_01" size="2480.000000 1754.000000" />
+    <ImageTarget name="85_02" size="2480.000000 1754.000000" />
+    <ImageTarget name="85_01" size="2480.000000 1754.000000" />
+    <ImageTarget name="84_02" size="2480.000000 1754.000000" />
+    <ImageTarget name="84_01" size="2480.000000 1754.000000" />
+    <ImageTarget name="83_02" size="2480.000000 1754.000000" />
+    <ImageTarget name="83_01" size="2480.000000 1754.000000" />
+    <ImageTarget name="82_02" size="2480.000000 1754.000000" />
+    <ImageTarget name="82_01" size="2480.000000 1754.000000" />
+    <ImageTarget name="sade_sf11" size="2480.000000 1754.000000" />
+    <ImageTarget name="sade_sf10" size="2480.000000 1754.000000" />
+    <ImageTarget name="sade_sf9" size="2480.000000 1754.000000" />
+    <ImageTarget name="sade_sf8" size="2480.000000 1754.000000" />
+    <ImageTarget name="sade_sf7" size="2480.000000 1754.000000" />
+    <ImageTarget name="sade_sf6" size="2480.000000 1754.000000" />
+    <ImageTarget name="sade_sf5" size="2480.000000 1754.000000" />
+    <ImageTarget name="sade_sf4" size="2480.000000 1754.000000" />
+    <ImageTarget name="sade_sf3" size="2480.000000 1754.000000" />
+    <ImageTarget name="sade_sf2" size="2480.000000 1754.000000" />
+    <ImageTarget name="sade_sf1" size="2480.000000 1754.000000" />
+  </Tracking>
+</QCARConfig>

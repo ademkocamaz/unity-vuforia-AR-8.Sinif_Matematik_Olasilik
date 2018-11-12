@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ce8040ce5892419499706c018734e076
+timeCreated: 1512676682
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR America
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: af96be60086736545ad57419095c278e, type: 3}
+  - {fileID: 12800000, guid: 0bfcdd4432f020c41b70e33103c5114b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

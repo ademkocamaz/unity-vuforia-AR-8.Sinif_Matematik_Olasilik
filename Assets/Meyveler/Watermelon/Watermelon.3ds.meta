@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 92fd0a638c4ed894982360781069a12f
+timeCreated: 1512918632
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Background
+    100002: Box02
+    100004: Disc
+    100006: Light
+    100008: Object01
+    100010: Object03
+    100012: Object04
+    100014: Sphere01
+    100016: Water
+    100018: Water1
+    100020: Water2
+    100022: //RootNode
+    100024: Watermelon
+    400000: Background
+    400002: Box02
+    400004: Disc
+    400006: Light
+    400008: Object01
+    400010: Object03
+    400012: Object04
+    400014: Sphere01
+    400016: Water
+    400018: Water1
+    400020: Water2
+    400022: Watermelon
+    400024: //RootNode
+    2300000: Background
+    2300002: Box02
+    2300004: Disc
+    2300006: Object01
+    2300008: Object03
+    2300010: Object04
+    2300012: Sphere01
+    2300014: Water
+    2300016: Water1
+    2300018: Water2
+    2300020: Watermelon
+    3300000: Background
+    3300002: Box02
+    3300004: Disc
+    3300006: Object01
+    3300008: Object03
+    3300010: Object04
+    3300012: Sphere01
+    3300014: Water
+    3300016: Water1
+    3300018: Water2
+    3300020: Watermelon
+    4300000: Disc
+    4300002: Background
+    4300004: Watermelon
+    4300006: Sphere01
+    4300008: Water
+    4300010: Object04
+    4300012: Water1
+    4300014: Box02
+    4300016: Water2
+    4300018: Object03
+    4300020: Object01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

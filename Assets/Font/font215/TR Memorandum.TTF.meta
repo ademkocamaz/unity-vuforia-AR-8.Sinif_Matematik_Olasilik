@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7648c6116dc0ec042bc3dc134072928e
+timeCreated: 1512676676
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR Memorandum
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 60a196a9aca0ade43a90d135fe4f0d20, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c7514c0c57708ac46b3cf097e914d47e
+timeCreated: 1512676681
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR Bookman
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a35ffbb7c9db69248abccb281bf91926, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

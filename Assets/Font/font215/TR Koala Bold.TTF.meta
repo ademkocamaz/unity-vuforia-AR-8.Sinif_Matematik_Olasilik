@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b3deefcad50e61e4ba921772c35bcbb6
+timeCreated: 1512676680
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR Koala
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3d6ab96a10a740541be604318e4b326f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9267cabefe1e5844090b32ef330ec4c2
+timeCreated: 1512676677
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR Kastler
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0e6c9346d5318844ea11bfac8b026152, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

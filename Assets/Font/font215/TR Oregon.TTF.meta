@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 39b39754573d77e44aa9520562f87973
+timeCreated: 1512676673
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR Oregon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 07a834ca30e558d4581adfaac96c844b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

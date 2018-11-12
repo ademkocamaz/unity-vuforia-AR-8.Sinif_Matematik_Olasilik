@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fdcd81b5237a1cc43a92a2eb5bca9019
+timeCreated: 1512676686
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR Avalon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9d53ea22e7816bc47aff763981d26475, type: 3}
+  - {fileID: 12800000, guid: 53de3b7a89e639a4a94b6aed084446a0, type: 3}
+  - {fileID: 12800000, guid: d5d242da924ec5d4493903c947c562b7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b457c91d3d9f0e8429b50824c10c61f5
+timeCreated: 1512676680
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR Courier New
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0b3dad318e64eac4ebbddba082f2c058, type: 3}
+  - {fileID: 12800000, guid: 170fb713b2f0b13489cefb75a8b71384, type: 3}
+  - {fileID: 12800000, guid: 5fe4b58f0d296d04e9164d3b20f355cd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 96ad386355015ed40931e3ad1d2c504c
+timeCreated: 1512676678
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR Verdana
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1b6f0eea00042b046a2c02464a84a427, type: 3}
+  - {fileID: 12800000, guid: 400be7ccc83ba9f4e98fa4cbcb7bdb74, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

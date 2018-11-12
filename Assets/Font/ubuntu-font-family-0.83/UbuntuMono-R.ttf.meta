@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d8526a790ea8de8488735c086730b198
+timeCreated: 1512675366
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ubuntu Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 21c909044620d8445b3471963de9ec24, type: 3}
+  - {fileID: 12800000, guid: 315e7afcf44eeda4ca13c2d9bb1269d9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

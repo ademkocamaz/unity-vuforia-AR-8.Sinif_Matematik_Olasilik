@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b054cc9c2cba9e943ae26fcdee6e08e9
+timeCreated: 1512676679
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR Comic Sans MS
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 40f95a26e02edd849a1126fc5d3fa50d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

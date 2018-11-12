@@ -1,0 +1,21 @@
+﻿using UnityEngine;
+using System.Collections;
+using UnityEngine.SceneManagement;
+
+public class karakterSecErkek : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+	
+	}
+	
+	// Update is called once per frame
+	void Update () {
+	
+	}
+
+	void OnMouseDown(){
+        LoadingScreenManager.LoadScene(4);
+		//SceneManager.LoadScene ("anlatBanaErkek");		
+	}
+}

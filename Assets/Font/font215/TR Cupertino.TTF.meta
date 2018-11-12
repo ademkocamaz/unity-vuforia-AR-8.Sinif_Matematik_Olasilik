@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e7551bd73ea840b4d81cc40f9afdc45f
+timeCreated: 1512676684
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR Cupertino
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b2aa819f6afec48469bc1f1fa3d6c218, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

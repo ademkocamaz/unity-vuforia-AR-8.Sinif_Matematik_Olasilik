@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c17f9001426b71e4385d211a45171f46
+timeCreated: 1512676681
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR Baez
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 44860daaf06641447b8567d517059129, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

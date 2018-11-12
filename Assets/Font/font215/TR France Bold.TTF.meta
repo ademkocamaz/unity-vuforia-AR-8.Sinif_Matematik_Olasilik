@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a6cf58255dc0f744185152e0c4d0c2ba
+timeCreated: 1512676679
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TR France
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9a081d15521ac3e47b77192b30a3fa8b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
