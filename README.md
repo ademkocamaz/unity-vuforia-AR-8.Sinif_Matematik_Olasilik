@@ -4,4 +4,4 @@
 ### [Değerlendir Beni](https://www.youtube.com/watch?v=3F_PHC4CMC4)
 ### [Örnekler](https://www.youtube.com/watch?v=lgPxbFjZfuM)
 [![Cover](github/cover.png)](https://www.youtube.com/@ilkadam "Cover")
-[![Cover](github/ekip.png)](https://www.youtube.com/@ilkadam "Ekip")
+[![Ekip](github/ekip.png)](https://www.youtube.com/@ilkadam "Ekip")
