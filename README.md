@@ -4,6 +4,7 @@
 
 ![Cover](github/cover.png "Cover")
 ---
+[![Alternate Text](github/cover.png)](github/0.mp4 "Anlat Bana")
 <video width="320" height="240" controls>
   <source src="github/0.mp4" type="video/mp4">
 </video>
