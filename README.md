@@ -2,7 +2,14 @@
 ## Unity Vuforia - Artırılmış Gerçeklik ile İlköğretim 8. Sınıf Matematik Dersi Olasılık Konusu.
 
 
-![Cover](/github/cover.png "Cover")
-![Anlat Bana](/github/0.mp4)
-![Değerlendir Beni](/github/1.mp4)
-![Örnekler](/github/2.mp4)
+![Cover](github/cover.png "Cover")
+---
+<video width="320" height="240" controls>
+  <source src="github/0.mp4" type="video/mp4">
+</video>
+<video width="320" height="240" controls>
+  <source src="github/1.mp4" type="video/mp4">
+</video>
+<video width="320" height="240" controls>
+  <source src="github/2.mp4" type="video/mp4">
+</video>
